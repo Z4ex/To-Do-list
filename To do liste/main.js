@@ -6,5 +6,4 @@ function text() {
 
     var container = document.getElementById("container2");
     container.appendChild(newelement);
-
 }
